@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elo240
-- 👀 I’m interested in PHP, Laravel, JS, ReactJS
+- 👀 I’m interested in PHP, JS, ReactJS
 - 🐱‍👤 I've experienced in PHP, Laravel, JS, ReactJS, Bootstrap, Kotlin, Java, MySQL, MsSQL
 - ✔  I've dealt with MongoDb, WordPress, JQuerry, C, Oracle
 - 🌱 I’m currently learning ReactJS
